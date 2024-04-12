@@ -6,7 +6,7 @@
 <br>💭 Currently learning about Data Integration 
 
 
-![](https://komarev.com/ghpvc/?username=pipe-01&color=blue)
+[![](https://visitcount.itsvg.in/api?id=pipe-01&icon=5&color=9)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -27,6 +27,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pipe-01&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
