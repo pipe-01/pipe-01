@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Filipe Pinto
-<br>👨‍💻 Software Engineer with a keen interest in backend and machine learning
+<br>👨‍💻 Software Engineer with a keen interest in Backend and Machine Learning
 <br>👨‍🎓 Bachelor’s in Informatics and Computing Engineering at [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial)
 <br>📚 Currently in last year of Master’s in Informatics and Computing Engineering at FEUP.
 <br>🖥 I’m currently working on my thesis focusing on revolutionizing Big Data ETL (Extract, Load, Transform) processes with [zerozero](https://www.zerozero.pt).
-<br>💭 Currently learning about data integration 
+<br>💭 Currently learning about Data Integration 
 
 
 ![](https://komarev.com/ghpvc/?username=pipe-01&color=blue)
